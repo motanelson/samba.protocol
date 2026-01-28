@@ -1,0 +1,11 @@
+
+[sound]
+sound = on
+music = on
+
+[keys]
+up = w
+down = x
+left = a
+rigth = d
+fire = space
